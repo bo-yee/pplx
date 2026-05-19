@@ -1,0 +1,25 @@
+/**
+ * @license
+ * Copyright 2025 Perplexity AI
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+export const shortAsciiLogo = `
+       ◇
+    ╱╲ │ ╱╲
+  ◇─╲╱─◇─╲╱─◇
+    ╲╱ │ ╲╱
+       ◇
+`;
+
+export const longAsciiLogo = `
+          ◇
+       ╱╲ │ ╱╲
+    ◇─╲╱─◇─╲╱─◇
+       ╲╱ │ ╲╱
+          ◇
+`;
+
+export const tinyAsciiLogo = `
+  ◇ PPLX
+`;
