@@ -1,0 +1,107 @@
+[
+  {
+    "sessionId": "ca7408fa-4325-4390-bed6-248ae18a5417",
+    "messageId": 0,
+    "type": "user",
+    "message": "hi",
+    "timestamp": "2026-05-19T01:32:44.467Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 0,
+    "type": "user",
+    "message": "hi",
+    "timestamp": "2026-05-19T01:34:19.086Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 1,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T01:34:33.151Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 2,
+    "type": "user",
+    "message": "你是什么模型",
+    "timestamp": "2026-05-19T01:35:27.084Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 3,
+    "type": "user",
+    "message": "/model claude-4.6-sonnet",
+    "timestamp": "2026-05-19T01:37:47.288Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 4,
+    "type": "user",
+    "message": "hi",
+    "timestamp": "2026-05-19T01:37:59.533Z"
+  },
+  {
+    "sessionId": "ae35e717-fe6b-4d10-a431-3c31266009f2",
+    "messageId": 5,
+    "type": "user",
+    "message": "读取C:\\Users\\86131\\Desktop\\城市拥挤效应破解的数字化方案数据文件夹内容",
+    "timestamp": "2026-05-19T01:38:18.124Z"
+  },
+  {
+    "sessionId": "615dc2e7-ccb9-446d-afdc-a808168bfe1e",
+    "messageId": 0,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T01:42:54.383Z"
+  },
+  {
+    "sessionId": "615dc2e7-ccb9-446d-afdc-a808168bfe1e",
+    "messageId": 1,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T01:43:16.524Z"
+  },
+  {
+    "sessionId": "c6d5c8c1-7585-41a2-a854-e20ae3bbb0bf",
+    "messageId": 0,
+    "type": "user",
+    "message": "读取C:\\Users\\86131\\Desktop\\城市拥挤效应破解的数字化方案数据文件",
+    "timestamp": "2026-05-19T08:33:35.007Z"
+  },
+  {
+    "sessionId": "c6d5c8c1-7585-41a2-a854-e20ae3bbb0bf",
+    "messageId": 1,
+    "type": "user",
+    "message": "这个文件夹下面有很多文件啊，你看不到吗",
+    "timestamp": "2026-05-19T08:37:38.089Z"
+  },
+  {
+    "sessionId": "6a8fed40-00dc-4558-9988-62feb3649972",
+    "messageId": 0,
+    "type": "user",
+    "message": "读取C:\\Users\\86131\\Desktop\\城市拥挤效应破解的数字化方案数据",
+    "timestamp": "2026-05-19T10:33:09.974Z"
+  },
+  {
+    "sessionId": "6a8fed40-00dc-4558-9988-62feb3649972",
+    "messageId": 1,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T10:34:22.734Z"
+  },
+  {
+    "sessionId": "6a8fed40-00dc-4558-9988-62feb3649972",
+    "messageId": 2,
+    "type": "user",
+    "message": "读取D:\\word文档文件夹，告诉我这是干嘛的",
+    "timestamp": "2026-05-19T10:34:40.727Z"
+  },
+  {
+    "sessionId": "6a8fed40-00dc-4558-9988-62feb3649972",
+    "messageId": 3,
+    "type": "user",
+    "message": "/clear",
+    "timestamp": "2026-05-19T10:42:32.369Z"
+  }
+]

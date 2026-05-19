@@ -1,0 +1,16 @@
+{
+  "security": {
+    "auth": {
+      "sessionToken": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..V-iOGaoutNPl-kwA.9l_BRUZpsjHsmUUmL55w_r_5KdoD-aM0qgbz5UMwadCn0Rvx4lYmpvaheMTiJWoW4wVVlKQ4S1ukJ02AwhGIq3LuVKvd687SmTzjIBmyqx5QtTp3wiXIiq_bL4CAm9p-VAZXoqBrJObo40K1Z_DkWrD6eXvwzulwuXNcsE7dlmCQ9QdZzo5_R2OuR9xkN0JvpQIL1IdavJnEdlyzTBLJEg2RSdCfhPvgacDGHxIGv8alYbrSTZHXzGzPUVrDehWhKLKJ9lgdWK4.GVANeqL0-IEk_wFNYU8JEA",
+      "selectedType": "web-session"
+    }
+  },
+  "$version": 2,
+  "ide": {
+    "hasSeenNudge": true,
+    "enabled": true
+  },
+  "general": {
+    "preferredEditor": "vscode"
+  }
+}

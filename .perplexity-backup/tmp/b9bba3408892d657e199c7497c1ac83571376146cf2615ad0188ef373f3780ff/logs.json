@@ -1,0 +1,100 @@
+[
+  {
+    "sessionId": "5ab73aa2-785c-49a0-80d5-485e5aa96232",
+    "messageId": 0,
+    "type": "user",
+    "message": "读取C:\\Users\\86131\\perplexity-cli",
+    "timestamp": "2026-05-19T09:20:18.765Z"
+  },
+  {
+    "sessionId": "5ab73aa2-785c-49a0-80d5-485e5aa96232",
+    "messageId": 1,
+    "type": "user",
+    "message": "你在干么",
+    "timestamp": "2026-05-19T09:20:44.881Z"
+  },
+  {
+    "sessionId": "5ab73aa2-785c-49a0-80d5-485e5aa96232",
+    "messageId": 2,
+    "type": "user",
+    "message": "读取C:\\Users\\86131\\Desktop\\城市拥挤效应破解的数字化方案数据文件夹，告诉我有哪些内容",
+    "timestamp": "2026-05-19T09:21:23.731Z"
+  },
+  {
+    "sessionId": "5ab73aa2-785c-49a0-80d5-485e5aa96232",
+    "messageId": 3,
+    "type": "user",
+    "message": "怎么样才能让你读取本地文件夹",
+    "timestamp": "2026-05-19T09:22:58.050Z"
+  },
+  {
+    "sessionId": "337b505a-e6ce-466b-bbbd-61ff5818afcf",
+    "messageId": 0,
+    "type": "user",
+    "message": "/editor",
+    "timestamp": "2026-05-19T11:05:00.112Z"
+  },
+  {
+    "sessionId": "7bdd5355-b086-45ce-9822-26704c645519",
+    "messageId": 0,
+    "type": "user",
+    "message": "/ide enable",
+    "timestamp": "2026-05-19T11:13:05.778Z"
+  },
+  {
+    "sessionId": "a58790e8-d005-445d-9492-5b28ef52fd2a",
+    "messageId": 0,
+    "type": "user",
+    "message": "/ide status",
+    "timestamp": "2026-05-19T11:15:57.240Z"
+  },
+  {
+    "sessionId": "a58790e8-d005-445d-9492-5b28ef52fd2a",
+    "messageId": 1,
+    "type": "user",
+    "message": "/ide install",
+    "timestamp": "2026-05-19T11:16:03.244Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 0,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T11:22:07.775Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 1,
+    "type": "user",
+    "message": "/extensions list",
+    "timestamp": "2026-05-19T11:50:41.827Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 2,
+    "type": "user",
+    "message": "/model",
+    "timestamp": "2026-05-19T11:51:00.294Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 3,
+    "type": "user",
+    "message": "stata代码中的rename 均值 人口密度均值是什么意思？",
+    "timestamp": "2026-05-19T11:57:28.759Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 4,
+    "type": "user",
+    "message": "请将你对话中引用的5号链接给我",
+    "timestamp": "2026-05-19T12:00:18.655Z"
+  },
+  {
+    "sessionId": "7ddd32e9-ab1f-454d-8f92-778c983dc134",
+    "messageId": 5,
+    "type": "user",
+    "message": "/clear",
+    "timestamp": "2026-05-19T12:00:44.767Z"
+  }
+]
